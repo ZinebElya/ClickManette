@@ -66,5 +66,8 @@ Step 13: Make it pretty
 
 Your cookie clicker must be pretty, make it look good with CSS or some extra JavaScript.
 
+### Author:  
+Zineb El yattouti - Junior Web Developer at Becode.org
+
 
 
